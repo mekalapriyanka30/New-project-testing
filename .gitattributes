@@ -1,0 +1,4 @@
+# Normalize line endings and keep mvnw executable on Linux
+* text=auto
+mvnw text eol=lf
+.mvn/wrapper/maven-wrapper.properties text eol=lf
